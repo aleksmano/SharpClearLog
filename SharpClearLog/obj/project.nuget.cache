@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaLtRDXxRNCu8wYnCFt1LFQFHuFRhNN7TGssx95fdL2h2kfl+pnL0QNtxEaeAso1+rr9iJq1LD9qOXJ30Zr+lA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SharpClearLog\\SharpClearLog\\SharpClearLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VsDragon\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\VsDragon\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\VsDragon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

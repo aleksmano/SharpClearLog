@@ -1,0 +1,14 @@
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.AssemblyInfoInputs.cache
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.AssemblyInfo.cs
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.csproj.CoreCompileInputs.cache
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\SharpClearLog.exe
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\SharpClearLog.deps.json
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\SharpClearLog.runtimeconfig.json
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\SharpClearLog.dll
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\ref\SharpClearLog.dll
+D:\Projects\SharpClearLog\SharpClearLog\bin\Release\net6.0\SharpClearLog.pdb
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.dll
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\ref\SharpClearLog.dll
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.pdb
+D:\Projects\SharpClearLog\SharpClearLog\obj\Release\net6.0\SharpClearLog.genruntimeconfig.cache
